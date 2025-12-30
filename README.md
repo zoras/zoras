@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saroj Maharjan</h1>
-<p align="center">
-  <picture>
-    <a href="https://sarojmaharjan.com/"><img alt="Saroj Maharjan" src="https://github.com/zoras.png?size=160"></a>
-  </picture>
-</p>
 <h3 align="center">
   Senior Software Engineer (15+ years) · Ruby on Rails · Distributed Systems · AI-powered Product Features
 </h3>
